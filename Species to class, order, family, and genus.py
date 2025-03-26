@@ -1,4 +1,5 @@
 #Species to class and order
+#If you have a list of species name and want to get their higher classes
 
 import pandas as pd
 from ete3 import NCBITaxa
