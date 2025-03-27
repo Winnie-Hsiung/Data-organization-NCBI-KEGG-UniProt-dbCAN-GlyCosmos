@@ -9,5 +9,7 @@ Databases usually provide API to let users download and upload their data. Howev
 
 
 ----
+
 SPARQL example query
+
 UniProtKB: https://sparql.uniprot.org/.well-known/sparql-examples/?offset=43 
