@@ -5,3 +5,9 @@ Databases usually provide API to let users download and upload their data. Howev
 
 *Please use these codes to save time for more important research thinking, literature review, or manuscript writing.* 
 
+
+
+
+----
+SPARQL example query
+UniProtKB: https://sparql.uniprot.org/.well-known/sparql-examples/?offset=43 
