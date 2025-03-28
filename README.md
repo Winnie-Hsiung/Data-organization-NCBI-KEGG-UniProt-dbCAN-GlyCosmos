@@ -10,6 +10,19 @@ Databases usually provide API to let users download and upload their data. Howev
 
 ----
 
+**Database**
+
+***NCBI**: https://www.ncbi.nlm.nih.gov
+
+***UniProtKB**: https://www.uniprot.org
+
+***KEGG**: https://www.genome.jp/kegg/
+
+***EMBL-EBI**: https://www.ebi.ac.uk
+
+
+----
+
 **SPARQL example query**
 
 ***UniProtKB**: https://sparql.uniprot.org/.well-known/sparql-examples/?offset=43 
