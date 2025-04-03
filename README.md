@@ -20,6 +20,8 @@ Databases usually provide API to let users download and upload their data. Howev
 
 ***EMBL-EBI**: https://www.ebi.ac.uk
 
+***GlyCosmos**: https://glycosmos.org
+
 
 ----
 
