@@ -1,4 +1,4 @@
-# If you want to know organisms' taxanomy and phylogenetic relationships, but NCBI gives you wrong classifications
+# If you want to know organisms' taxanomy and phylogenetic relationships, but Entrez gives you wrong classifications
 # Use this code to categorize your data
 # Modify the family names to fit your data
 
